@@ -29,3 +29,7 @@ Vite, TypeScript (strict), Ant Design v5, Zustand, Axios
 ![Фильтр по дате](./screenshots/filter-дата.png)
 ![Фильтр по имени](./screenshots/filter-имя.png)
 ![Фильтр по сумме](./screenshots/filter-сумма.png)
+
+## Ссылка на деплой
+
+[Деплой](https://test-for-cub.vercel.app)
