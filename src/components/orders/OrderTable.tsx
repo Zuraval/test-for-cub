@@ -86,7 +86,6 @@ export const OrderTable: React.FC<Props> = ({
     {
       title: "Действия",
       key: "actions",
-      fixed: "right",
       width: 300,
       render: (_, record) => (
         <OrderActions
@@ -120,7 +119,7 @@ export const OrderTable: React.FC<Props> = ({
         pageSizeOptions: ["10", "20", "50", "100"],
       }}
       onChange={onChange}
-      scroll={{ x: 1000 }}
+      scroll={{ x: 1100 }}
       locale={{
         emptyText: "Заказы не найдены",
       }}
